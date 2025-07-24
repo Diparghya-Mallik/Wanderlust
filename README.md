@@ -13,4 +13,4 @@
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/wanderlust.git
+   https://github.com/Diparghya-Mallik/Wanderlust.git
